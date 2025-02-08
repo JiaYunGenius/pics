@@ -1,2 +1,2 @@
 # pics
-图床
+Imags Bed
